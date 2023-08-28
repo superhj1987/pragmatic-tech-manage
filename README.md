@@ -1,4 +1,4 @@
-# pragmatic-tech-mange
+# pragmatic-tech-manage
 技术管理修炼之道
 
 第一章 技术管理概述
